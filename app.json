@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Food Restaurant App",
+    "slug": "food-restaurant-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
